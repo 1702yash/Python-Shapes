@@ -1,2 +1,2 @@
-# Python-Shapes
+# PYTHON
 Different shapes practise
